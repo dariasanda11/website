@@ -31,6 +31,7 @@ I chose this project because I spent a lot of time sitting at a desk in school a
 ## Log
 
 ### Week 5 - 11 May
+I gathered and assembled all the necessary components for the device, carefully arranging and securing the cables to ensure they remained in place without excessive tension. However, because the wires were not quite long enough to reach their intended positions, I used tape to hold them securely. I then sewed the sensor and the motor onto a harness, allowing the device to be integrated into a wearable form.
 
 ### Week 12 - 18 May
 
