@@ -38,6 +38,7 @@ I chose this project because I spent a lot of time sitting at a desk in school a
 
 ## Hardware
 
+
 ### Schematics
 
 ### Bill of Materials
