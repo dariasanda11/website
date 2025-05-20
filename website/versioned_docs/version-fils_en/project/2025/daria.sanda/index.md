@@ -48,7 +48,7 @@ I did the schematic in KiCad and I tried simple codes to see if the connections 
 The Raspberry Pi Pico 2W in the middle of the breadboard is the microcontroller and the other one acts as a debugger. The LED is connected through the resistor to `GPIO 13`, the push button is connected to `GPIO 16`. The motor is connected to the collector of the transistor and to VCC, and it is also connected in parallel with the diode. The base of the transistor is connected through a resistor to `GPIO 10`. The MPU9250 Sensor is connected through `I2C` to the microcontroller using `GPIO 14` as SDA and `GPIO 15` as SCL. 
 
 ### Schematics
-![Kicad schematic ](./Posture%20Monitor.svg)
+![Kicad schematic ](./PostureMonitor.svg)
 
 ### Bill of Materials
 | Device | Usage | Price |
